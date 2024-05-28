@@ -186,4 +186,7 @@ https://github.com/supwayb/clearfc/commit/71b32ce2795516b1a51cd209875ba0f1405732
 https://github.com/supwayb/clearfc/commit/b9486dfd79371aaf0a09726c78e3ca125a7c7f75
 7. 변경(2023년 11월 20일) 시행(2023년 11월 27일) : 
 https://github.com/supwayb/clearfc/commit/2227a12a211d8bbc40daf6d0aaa14b7a63a8e539
-8. 변경(2024년 5월 28일) 시행(2024년 6월 4일) :
+8. 변경(2023년 12월 12일) 시행(2023년 12월 12일) :
+https://github.com/supwayb/clearfc/commit/2227a12a211d8bbc40daf6d0aaa14b7a63a8e539
+9. 변경(2024년 5월 28일) 시행(2024년 6월 4일) :
+https://github.com/supwayb/clearfc/commit/a673a59d6815178c148072de604b4a35cd676575
